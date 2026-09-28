@@ -1,0 +1,1 @@
+CREATE DATABASE lyceum_db;
